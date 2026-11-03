@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -16,6 +16,14 @@ I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of 
 - LLM Reasoning and Reinforcement Learning
 - Hallucination in Vision-Language Models (VLM)
 - LLM truthfulness and interpretability
+
+## Skills
+
+- Natural Language Processing
+- Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
 
 ## Education
 
